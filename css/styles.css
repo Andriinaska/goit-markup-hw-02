@@ -2,55 +2,78 @@
 .body {
     background: #FFFFFF;
 font-family: Roboto, sans-serif;
-    color: #434455 
+    color: #434455;
 
 }
 
 .web {
+background: #FFFFFF;
 color:#4D5AE5;
-font-family: raleway;
+font-family: raleway, sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 21px;
-letter-spacing: 0.03;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 
 }
 .studio{
-    color:#2E2F42;
-   
+    background: #FFFFFF;
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .contacts {
-        background: #2E2F42;
+        background: #FFFFFF;
+        color: #434455;
     font-family: Roboto;
         font-weight: 500;
         font-size: 16px;
-        line-height: 24px;
-        letter-spacing: 2%;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
 }
 .address {
-       background: #434455;
+       background: #FFFFFF;
+       color: #2E2F42;
    font-family: Roboto;
        font-weight: 400;
        font-size: 16px;
         line-height: 24px;
-       letter-spacing: 2%;
+       letter-spacing: 0.02;
 }
+ .address .link:focus, 
+ .address .link:hover {
+    background-color: #404BBF;
+ } 
+
+
 .title {
+    background: #2E2F42;
         color:#FFFFFF; 
     font-family: Roboto;
         font-weight: 700;
         font-size: 56px;
         line-height: 60px;
-        letter-spacing: 2%;
+        letter-spacing: 0.02;
         text-align: center;
 }
 .button {
+    background-color: #4D5AE5;
         color: #FFFFFF;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
         font-weight: 500;
         font-size: 16px;
-        line-height: 24px;
-        letter-spacing: 4%;
+        line-height: 1.5;
+        letter-spacing: 0.04;
+
+}
+.button .link :focus,
+.button .link :hover {
+    background-color: #404BBF;
+}
     
 }
 .advantages {
@@ -122,10 +145,22 @@ font-family: Roboto;
         letter-spacing: 2%;
 }
 .footer {
-    background: #F4F4FD;
+    background-color: #2e2f42;
+    color: #F4F4FD;;
     font-family: Roboto;
+    font-family: raleway, sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 24px;
-        letter-spacing: 2%;
+        
+}
+.span {
+    color: #f4f4fd;
+}
+.footer1 {
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
+.efective {
+    background: #2E2F42;
 }
