@@ -1,6 +1,9 @@
 
 .body {
-font-family: roboto;
+    background: #FFFFFF;
+font-family: "roboto", sans-serif;
+    color: #434455 
+
 }
 
 .web {
