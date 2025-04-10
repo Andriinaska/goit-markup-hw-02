@@ -42,6 +42,9 @@ text-transform: uppercase;
  .address .link:hover {
     background-color: #404BBF;
  } 
+.efective {
+    background: #2E2F42;
+}
 
 .title {
      background: #2E2F42;
@@ -148,9 +151,12 @@ font-family: Roboto;
     color: #f4f4fd;
 }
 .footer1 {
+ background: #2e2f42;
+ font-family: Roboto, sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
     color: #f4f4fd;
     letter-spacing: 0.02em;
 }
-.efective {
-    background: #2E2F42;
-}
+
