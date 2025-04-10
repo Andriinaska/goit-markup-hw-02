@@ -1,0 +1,128 @@
+
+.body {
+font-family: roboto;
+}
+
+.web {
+color:#4D5AE5;
+font-family: raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03;
+
+}
+.studio{
+    color:#2E2F42;
+   
+}
+.contacts {
+        background: #2E2F42;
+    font-family: Roboto;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 2%;
+}
+.address {
+       background: #434455;
+   font-family: Roboto;
+       font-weight: 400;
+       font-size: 16px;
+        line-height: 24px;
+       letter-spacing: 2%;
+}
+.title {
+        color:#FFFFFF; 
+    font-family: Roboto;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 60px;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.button {
+        color: #FFFFFF;
+    font-family: Roboto;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 4%;
+    
+}
+.advantages {
+    background: #2E2F42;
+    font-family: Roboto;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 2%;
+}
+.feature {
+    background: #434455;
+    font-family: Roboto;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 2%;
+}
+.team {
+    background: #2E2F42;
+    font-family: Roboto;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.team1 { 
+    background: #2E2F42;
+font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.profession {
+    background: #434455;
+    font-family: Roboto;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.porfolio { 
+    background: #2E2F42;
+    font-family: Roboto;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.porfolio1 {
+    background: #2E2F42;
+    font-family: Roboto;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 2%;
+}
+.portfolio2 {
+    background: #434455;
+    font-family: Roboto;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 2%;
+}
+.footer {
+    background: #F4F4FD;
+    font-family: Roboto;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 2%;
+}
