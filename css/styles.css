@@ -17,7 +17,14 @@ text-transform: uppercase;
 
 }
 .studio{
+ background: #FFFFFF;
     color:#f4f4fd;
+ font-family: Raleway, sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
    
 }
 .contacts {
@@ -150,7 +157,7 @@ font-family: Roboto;
 .span {
     color: #f4f4fd;
 }
-.footer1 {
+.footerq {
  background: #2e2f42;
  font-family: Roboto, sans-serif;
 font-weight: 400;
