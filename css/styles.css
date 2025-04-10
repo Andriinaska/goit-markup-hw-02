@@ -144,3 +144,13 @@ font-family: Roboto;
         line-height: 24px;
         letter-spacing: 2%;
 }
+.span {
+    color: #f4f4fd;
+}
+.footer1 {
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
+.efective {
+    background: #2E2F42;
+}
