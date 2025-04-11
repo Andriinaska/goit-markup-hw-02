@@ -1,15 +1,5 @@
 
 
-
- .body {
-    font-family: Roboto, sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
-}
-.header {
-background: #E7E9FC;
-font-family: Raleway, sans-serif;
-}
 .web {
 background: #E7E9FC;
 color:#4D5AE5;
@@ -19,7 +9,6 @@ font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-
 }
 .studio{
     background: #E7E9FC;
@@ -33,7 +22,7 @@ text-transform: uppercase;
 
 .contacts {
     background: #E7E9FC;
-        color: #2E2F42;
+        color: #2e2f42;
     font-family: Roboto;
         font-weight: 500;
         font-size: 16px;
@@ -41,10 +30,13 @@ text-transform: uppercase;
         letter-spacing: 0.02em;
 }
 .link {
-    color: #404BBF;
+    color: #4D5AE5;
 }
 .link :hover, :focus {
     color: #404BBF;
+}
+.addressa {
+    font-style: normal;
 }
 .address {      
       background: #E7E9FC;
@@ -52,11 +44,11 @@ text-transform: uppercase;
    font-family: Roboto;
        font-weight: 400;
        font-size: 16px;
-        line-height: 24px;
+        line-height: 1.5;
     letter-spacing: 0.02em;
     font-style: normal;
 }
-.link1 :hover, :focus {
+.link :hover, :focus {
     color: #404bbf;
 }
 
@@ -89,7 +81,7 @@ text-transform: uppercase;
         letter-spacing: 0.04em;
         cursor: pointer;
 }
-  .button :hover, :focus{
+  .button:hover,:focus{
    background-color: #404BBF; 
   }
 .advantages {
@@ -110,9 +102,10 @@ text-transform: uppercase;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.ourteam {
-background: #FFFFFF;
+.section {
+color: #F4F4FD;
 }
+
 .team {
     background: #F4F4FD;
     color: #2e2f42;
@@ -123,6 +116,9 @@ background: #FFFFFF;
         letter-spacing: 0.02em;
         text-align: center;
         text-transform: capitalize;
+}
+.ourteam {
+    background: #FFFFFF;
 }
 .teamq { 
     background:#FFFFFF;
@@ -136,6 +132,7 @@ font-family: Roboto;
 }
 .profession {
     background:#FFFFFF;
+    color: #434455;
     font-family: Roboto;
         font-weight: 400;
         font-size: 16px;
