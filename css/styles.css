@@ -6,7 +6,10 @@
     color: #434455;
     background-color: #FFFFFF;
 }
-
+.header {
+background: #E7E9FC;
+font-family: Raleway, sans-serif;
+}
 .web {
 background: #E7E9FC;
 color:#4D5AE5;
@@ -38,12 +41,12 @@ text-transform: uppercase;
         letter-spacing: 0.02em;
 }
 .link {
-    color: #404bbf;
+    color: #404BBF;
 }
-.link :hover,:focus {
-    color: #404bbf;
+.link :hover, :focus {
+    color: #404BBF;
 }
-.address {
+.address {      
       background: #E7E9FC;
        color: #434455;
    font-family: Roboto;
@@ -87,7 +90,7 @@ text-transform: uppercase;
         cursor: pointer;
 }
   .button :hover, :focus{
-   background-color: #404bbf; 
+   background-color: #404BBF; 
   }
 .advantages {
     background: #E7E9FC;
@@ -140,7 +143,7 @@ font-family: Roboto;
         letter-spacing: 0.02em;
         text-align: center;
 }
-.porfolio { 
+.portfolio { 
     background: #E7E9FC;
     color: #2e2f42;
     font-family: Roboto;
@@ -151,9 +154,8 @@ font-family: Roboto;
         text-align: center;
         text-transform: capitalize;
 }
-.porfolioq {
+.portfolioq {
     color: #2e2f42;
-
     font-family: Roboto;
         font-weight: 500;
         font-size: 20px;
