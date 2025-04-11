@@ -1,15 +1,26 @@
 
+<<<<<<< HEAD
 .body {
     background: #FFFFFF;
 font-family: Roboto, sans-serif;
     color: #434455;
 
+=======
+ body {
+    font-family: Roboto, sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+>>>>>>> d8fb2f84984ae87849778c8344c69f3d5b9b9e89
 }
 
 .web {
 background: #FFFFFF;
 color:#4D5AE5;
+<<<<<<< HEAD
 font-family: raleway, sans-serif;
+=======
+font-family: Raleway, sans-serif;
+>>>>>>> d8fb2f84984ae87849778c8344c69f3d5b9b9e89
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
@@ -18,6 +29,7 @@ text-transform: uppercase;
 
 }
 .studio{
+<<<<<<< HEAD
     background: #FFFFFF;
     color: #2E2F42;
     font-size: 18px;
@@ -28,6 +40,20 @@ text-transform: uppercase;
 }
 .contacts {
         background: #FFFFFF;
+=======
+ background: #FFFFFF;
+    color:#f4f4fd;
+ font-family: Raleway, sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+   
+}
+.contacts {
+    background: #FFFFFF;
+>>>>>>> d8fb2f84984ae87849778c8344c69f3d5b9b9e89
         color: #434455;
     font-family: Roboto;
         font-weight: 500;
@@ -36,13 +62,18 @@ text-transform: uppercase;
         letter-spacing: 0.02em;
 }
 .address {
+<<<<<<< HEAD
        background: #FFFFFF;
+=======
+      background: #FFFFFF;
+>>>>>>> d8fb2f84984ae87849778c8344c69f3d5b9b9e89
        color: #2E2F42;
    font-family: Roboto;
        font-weight: 400;
        font-size: 16px;
         line-height: 24px;
        letter-spacing: 0.02;
+<<<<<<< HEAD
 }
  .address .link:focus, 
  .address .link:hover {
@@ -55,6 +86,19 @@ text-transform: uppercase;
  }
 .title {
     background: #2E2F42;
+=======
+ }
+ .address .link:focus, 
+ .address .link:hover {
+    background-color: #404BBF;
+ } 
+.efective {
+    background: #2E2F42;
+}
+
+.title {
+     background: #2E2F42;
+>>>>>>> d8fb2f84984ae87849778c8344c69f3d5b9b9e89
         color:#FFFFFF; 
     font-family: Roboto;
         font-weight: 700;
@@ -71,6 +115,7 @@ text-transform: uppercase;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04;
+<<<<<<< HEAD
 
 }
 .button .link :focus,
@@ -78,6 +123,14 @@ text-transform: uppercase;
     background-color: #404BBF;
 }
     
+=======
+    
+}
+button .link :focus,
+.button .link :hover {
+    background-color: #404BBF;
+}
+>>>>>>> d8fb2f84984ae87849778c8344c69f3d5b9b9e89
 
 .advantages {
     background: #2E2F42;
@@ -148,19 +201,40 @@ font-family: Roboto;
         letter-spacing: 2%;
 }
 .footer {
+<<<<<<< HEAD
     background-color: #2e2f42;
     color: #F4F4FD;;
     font-family: Roboto;
+=======
+    background: #2e2f42;
+>>>>>>> d8fb2f84984ae87849778c8344c69f3d5b9b9e89
     font-family: raleway, sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 24px;
+<<<<<<< HEAD
         
+=======
+        letter-spacing: 2%;
+>>>>>>> d8fb2f84984ae87849778c8344c69f3d5b9b9e89
 }
 .span {
     color: #f4f4fd;
 }
+<<<<<<< HEAD
 .footer1 {
     color: #f4f4fd;
     letter-spacing: 0.02em;
 }
+=======
+.footerq {
+ background: #2e2f42;
+ font-family: Roboto, sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
+
+>>>>>>> d8fb2f84984ae87849778c8344c69f3d5b9b9e89
