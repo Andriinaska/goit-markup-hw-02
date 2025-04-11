@@ -50,6 +50,9 @@ text-transform: uppercase;
  } 
 
 
+ .efective {
+     background: #2E2F42;
+ }
 .title {
     background: #2E2F42;
         color:#FFFFFF; 
@@ -75,7 +78,7 @@ text-transform: uppercase;
     background-color: #404BBF;
 }
     
-}
+
 .advantages {
     background: #2E2F42;
     font-family: Roboto;
@@ -160,7 +163,4 @@ font-family: Roboto;
 .footer1 {
     color: #f4f4fd;
     letter-spacing: 0.02em;
-}
-.efective {
-    background: #2E2F42;
 }
