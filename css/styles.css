@@ -26,8 +26,8 @@ text-transform: uppercase;
 }
 
 .contacts {
-    background: #E7E9FC;
-        color: #2e2f42;
+    color: #2e2f42;
+    background: #E7E9FC;    
     font-family: Roboto;
         font-weight: 500;
         font-size: 16px;
@@ -53,7 +53,10 @@ text-transform: uppercase;
     letter-spacing: 0.02em;
     font-style: normal;
 }
-.link :hover, :focus {
+.linkq {
+    color: #434455;
+}
+.linkq :hover, :focus {
     color: #404bbf;
 }
 
@@ -62,10 +65,6 @@ text-transform: uppercase;
      background: #2E2F42;
  }
  
-.efective {
-    background: #2E2F42;
-}
-
 .title {
      background: #2E2F42;
         color:#FFFFFF; 
@@ -108,11 +107,11 @@ text-transform: uppercase;
         letter-spacing: 0.02em;
 }
 .section {
-color: #F4F4FD;
+background-color: #F4F4FD;
 }
 
 .team {
-    background: #F4F4FD;
+    background-color: #F4F4FD;
     color: #2e2f42;
     font-family: Roboto;
         font-weight: 700;
