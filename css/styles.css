@@ -41,6 +41,9 @@ text-transform: uppercase;
 .link:focus {
     color: #404bbf;
 }
+.tegaddress {
+font-style: normal;
+}
 .address-list {      
       background: #E7E9FC;
        color: #434455;
