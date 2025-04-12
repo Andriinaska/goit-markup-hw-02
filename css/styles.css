@@ -35,10 +35,10 @@ text-transform: uppercase;
         letter-spacing: 0.02em;
 }
 .link {
-    color: #4D5AE5;
+    color: #2e2f42;
 }
 .link :hover, :focus {
-    color: #404BBF;
+    color: #404bbf;
 }
 .addressa {
     font-style: normal;
