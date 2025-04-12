@@ -35,13 +35,13 @@ text-transform: uppercase;
         letter-spacing: 0.02em;
 }
 .link {
-    color: #404bbf;
+    color: #2e2f42;
 }
 .link :hover, :focus {
     color: #404bbf;
 }
 .addressa {
-    font-style: normal;
+    font-style:normal;
 }
 .address {      
       background: #E7E9FC;
@@ -53,7 +53,7 @@ text-transform: uppercase;
     letter-spacing: 0.02em;
 }
 .linkq {
-    color: #404bbf;
+    color: #434455;
 }
 .linkq :hover, :focus {
     color: #404bbf;
