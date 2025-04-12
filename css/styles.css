@@ -41,10 +41,7 @@ text-transform: uppercase;
 .link:focus {
     color: #404bbf;
 }
-.addressa {
-
-}
-.address {      
+.address-list {      
       background: #E7E9FC;
        color: #434455;
    font-family: Roboto;
