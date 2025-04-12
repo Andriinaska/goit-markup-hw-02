@@ -37,7 +37,8 @@ text-transform: uppercase;
 .link {
     color: #2e2f42;
 }
-.link :hover, :focus {
+.link:hover,
+.link:focus {
     color: #404bbf;
 }
 .addressa {
@@ -55,7 +56,8 @@ text-transform: uppercase;
 .linkq {
     color: #434455;
 }
-.linkq :hover, :focus {
+.linkq:hover,
+.link:focus {
     color: #404bbf;
 }
 
