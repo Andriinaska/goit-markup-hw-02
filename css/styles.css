@@ -42,9 +42,7 @@ text-transform: uppercase;
     color: #404bbf;
 }
 .tegaddress {
-font-style: normal;
-}
-.address-list {      
+    font-style: normal;    
       background: #E7E9FC;
        color: #434455;
    font-family: Roboto;
